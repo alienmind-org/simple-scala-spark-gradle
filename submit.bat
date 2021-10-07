@@ -1,0 +1,1 @@
+spark-submit --master yarn --deploy-mode cluster --class com.tutorial.spark.SimpleSparkJob ./build/libs/simple-scala-spark-gradle.jar

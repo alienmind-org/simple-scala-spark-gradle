@@ -1,0 +1,1 @@
+spark-submit --master yarn --class com.tutorial.spark.SimpleSparkJob ./build/libs/simple-scala-spark-gradle.jar
